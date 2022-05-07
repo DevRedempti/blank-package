@@ -6,6 +6,5 @@ export NVM_DIR="$HOME/.nvm"
 nvm use
 
 . "$(dirname "$0")/_/husky.sh"
-nvm --version
 npm test
 npx lint-staged

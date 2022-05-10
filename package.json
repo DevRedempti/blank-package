@@ -1,14 +1,14 @@
 {
   "name": "blank-package",
-  "version": "0.0.1",
-  "description": "",
+  "version": "1.0.0",
+  "description": "My simple boilerplate for Node packages",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
     "prepare": "husky install"
   },
   "keywords": [],
-  "author": "",
+  "author": "Justin Evan Belga",
   "license": "",
   "dependencies": {},
   "devDependencies": {
